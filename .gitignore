@@ -1,3 +1,5 @@
 .ruff_cache/
 .pre-commit-config.yaml
 *.log
+tskops-venv/
+__pycache__/
